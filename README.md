@@ -17,7 +17,7 @@
 </td>
 <td>  <h1>Muhammad Ahmad</h1>
 
-<p><em>Web designer of <strong>WordPress and HTML, CSS and JS</strong>. I 💗 coffee. I also 💖 Programming.</em> </p>
+<p><em>BSCS student of 5th semester in <strong>GCU</strong>. I 💗 coffee. I also 💖 Programming.</em> </p>
 <p>I am <a href="https://www.facebook.com/profile.php?id=100044538727552"> Muhammad Ahmad</a> from Kasur, Pakisan.
   I am 21 years old. I study BSCS(Bachelor of Science in computer science) from <a href="https://gcu.edu.pk">GCU( Government College University, Lahore)</a>.
   Now I'm free after 4th semester finals and started to learn about WordPress, HTML, CSS and JavaScript.
@@ -32,9 +32,9 @@
   <ul>
     <li>C++</li>
     <li>Java</li>
-    <li>C# <a download href="https://www.introprogramming.info/wp-content/uploads/2013/07/Books/CSharpEn/Fundamentals-of-Computer-Programming-with-CSharp-Nakov-eBook-v2013.pdf">download C# book</a></li>
-    <li>HTML from <a href="https://youtu.be/l5jUaLBXEg8" target="#"> Angela Yu</a></li>
-    <a download href="https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf">Download htmlcheatsheet</a>
+    <li>C# </li>
+    <li>Web Development</li>
+    <li>  <a download href="https://web.stanford.edu/group/csp/cs21/htmlcheatsheet.pdf">Download htmlcheatsheet</a></li>
   </ul>
   <hr>
   <!-- HTML Tables -->
